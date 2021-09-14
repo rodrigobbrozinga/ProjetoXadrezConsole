@@ -1,2 +1,3 @@
-Projeto de um jogo de Xadrez via console feito no curso C# COMPLETO Programação Orientada a Objetos + Projetos do Professor Nelio Alves na Udemy.
-Link do curso: https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/
+# Projeto Xadrez Console <h1>
+
+Projeto de um jogo de Xadrez via console utilizando C#. O projeto foi um grande desafio por explorar bastante a lógica de programação para implementar as regras do jogo de xadrez e as movimentações das peças, inclusive com movimentos especiais.
